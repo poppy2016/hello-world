@@ -1,2 +1,4 @@
 # hello-world
-tthe first paoject
+the first project
+
+just right
